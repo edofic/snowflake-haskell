@@ -1,4 +1,5 @@
 # snowflake - haskell
+[![Build Status](https://travis-ci.org/edofic/snowflake-haskell.png?branch=master)](https://travis-ci.org/edofic/snowflake-haskell)
 
 A loose port of [Twitter's Snowflake](https://github.com/twitter/snowflake) to haskell. 
 
